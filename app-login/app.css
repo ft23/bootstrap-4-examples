@@ -45,4 +45,5 @@ body {
 	border-radius: 0 50px 50px 0;
 	width: 90px;
 	right: -45px;
+	cursor: pointer;
 }
